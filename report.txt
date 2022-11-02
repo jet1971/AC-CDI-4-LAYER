@@ -1,0 +1,1 @@
+Error: Update symbol U1 from '2022-09-23_11-32-12:BT151-800R_127' to '2022-09-23_11-32-12:BT151-800R_127': *** symbol not found ***
